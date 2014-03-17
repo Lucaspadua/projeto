@@ -1,4 +1,4 @@
 projeto
 =======
 
-Projeto para testar os comandos do Git.
+Projeto para testar os comandos do Git!
